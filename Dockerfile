@@ -1,3 +1,3 @@
 FROM ubuntu
 RUN apt update
-CMD ["whoami","pwd"]
+CMD ["pwd"]
